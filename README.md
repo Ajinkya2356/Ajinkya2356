@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Welcome to my github profile 
+<div>
+  <div align="center">
+    <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="coding" height="200" width="200">
+  </div>
+</div>
 <!--
 **Ajinkya2356/Ajinkya2356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
