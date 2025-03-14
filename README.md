@@ -74,7 +74,7 @@ Versatile Full Stack Developer with expertise in the MERN stack and a strong pas
       <td width="50%">
         <h3 align="center">ShopKart</h3>
         <div align="center">
-          <img src="https://media.giphy.com/media/ckrKG1wsivxnCKRlCa/giphy.gif" width="250" height="150" alt="ShopKart" />
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBuZnl0eXFsc3l4ZGpqcDY1MGs0aDAwb3g5ajk3OHdxZTFmdzVpYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="250" height="150" alt="ShopKart" />
           <p>A full-stack e-commerce platform with features like product search, cart management, and secure payment processing.</p>
           <p><strong>Tech Stack:</strong> MERN Stack, Redux, Stripe API</p>
         </div>
