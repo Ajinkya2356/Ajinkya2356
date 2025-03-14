@@ -1,113 +1,122 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">👨‍💻 Ajinkya Jagtap | Full Stack Developer & ML Enthusiast</h1>
 
-<p align="left">
-  Hi, I'm <strong>Ajinkya Jagtap</strong> – a Dedicated Full Stack Developer, ML enthusiast, and Engineering Innovator.
-</p>
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="AI and ML Animation" />
+</div>
 
-<h4 align="left">Connect with me</h4>
-<div align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/ajinkya-jagtap-2023ai/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="20" alt="LinkedIn Logo" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ajinkyajagtap2806@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="20" alt="Gmail Logo" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+## 🚀 About Me
+
+Full Stack Developer with expertise in the MERN stack and a strong passion for Machine Learning. I transform complex problems into elegant, user-friendly solutions while continuously exploring cutting-edge technologies.
+
+- 🔭 Building innovative web applications since 2022
+- 🌱 Mastering MERN Stack & exploring advanced ML techniques
+- 🎯 Committed to creating high-performance, scalable applications
+- ⚡ Fun fact: I thrive in structured chaos and love optimizing systems
+
+## 💼 Technical Expertise
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</div>
+
+<br>
+
+<div align="center">
+  <img height="180" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding Animation" />
+  <img height="180" src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" alt="Software Development Animation" />
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=ajinkya2356&theme=darkhub&column=-1&row=1&margin-w=10&margin-h=8&no-bg=false&no-frame=false&order=4" height="120" alt="Trophy Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajinkya2356&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="165" alt="Stats Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajinkya2356&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&bg_color=0D1117" height="165" alt="Languages Graph" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ajinkya2356&locale=en&mode=daily&theme=react&hide_border=true&bg_color=0D1117" height="150" alt="Streak Graph" />
+</div>
+
+## 🔥 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Fit-GenAI</h3>
+        <div align="center">
+          <img src="https://media.giphy.com/media/3o7aCVp7zO4FxQDJuk/giphy.gif" width="250" height="150" alt="Fit-GenAI" />
+          <p>A revolutionary fitness application that combines AI-powered insights with personalized workout plans.</p>
+          <p><strong>Tech Stack:</strong> React, Node.js, TensorFlow.js, MongoDB</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">ShopKart</h3>
+        <div align="center">
+          <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250" height="150" alt="ShopKart" />
+          <p>A full-stack e-commerce platform with features like product search, cart management, and secure payment processing.</p>
+          <p><strong>Tech Stack:</strong> MERN Stack, Redux, Stripe API</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">DBMS Mini Project</h3>
+        <div align="center">
+          <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="250" height="150" alt="DBMS Project" />
+          <p>A comprehensive database management system showcasing advanced SQL queries and database design principles.</p>
+          <p><strong>Tech Stack:</strong> MySQL, PHP, JavaScript</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">ML Models</h3>
+        <div align="center">
+          <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" height="150" alt="ML Models" />
+          <p>Implementation of linear regression and random forest models for predictive analytics.</p>
+          <p><strong>Tech Stack:</strong> Python, Scikit-learn, Pandas, NumPy</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📬 Let's Connect!
+
+<p align="center">
+  I'm always open to interesting conversations, collaboration opportunities, and new challenges. If you're looking for a developer who combines technical expertise with creative problem-solving, let's connect!
+</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ajinkya-jagtap-2023ai/" target="_blank">
+    <img src="https://img.shields.io/badge/-Let's%20chat%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ajinkyajagtap2806@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Send%20me%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
-<div align="left">
-  <!-- Choose one of the GIF options below by replacing the URL in the src attribute -->
-  <!-- Option 1: Coding Focus -->
-<!--   <img height="200" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding Animation" /> -->
-  
-  <!-- Option 2: Software/Debugging Vibe -->
-  <!-- <img height="200" src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" alt="Software Development Animation" /> -->
-  
-  <!-- Option 3: Tech Aesthetics -->
-  
-  
-  <!-- Option 4: AI/ML Futuristic -->
-  <!-- <img height="200" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="AI and ML Animation" /> -->
-  
-  <!-- Option 5: AI/ML Alternative -->
-  <!-- <img height="200" src="https://media.giphy.com/media/3o7aCVp7zO4FxQDJuk/giphy.gif" alt="AI/ML Digital Animation" /> -->
-</div>
-
-<h2 align="left">✨ About Me ✨</h2>
-<p align="left">
-  - Bugs Creator Since 2022 🐞<br>
-  - Currently Mastering the MERN Stack & exploring Machine Learning 📚<br>
-  - Goals: Elevate tech solutions and make impactful contributions 🎯<br>
-  - Fun Fact: Thrives in structured chaos 🎲
-</p>
-
-<h2 align="left">Tech Stack</h2>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
-</div>
-
-<h2 align="left">GitHub Stats & Trophy</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=ajinkya2356&theme=darkhub&column=-1&row=1&margin-w=10&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trophy Graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ajinkya2356&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="Stats Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajinkya2356&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="Languages Graph" />
-  <img src="https://streak-stats.demolab.com?user=ajinkya2356&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Graph" />
-</div>
-
-<h2 align="left">Open Source Contributions</h2>
-<p align="left">
-  I’m passionate about open source and actively looking for opportunities to contribute! Here are some projects with beginner-friendly issues and active communities:
-</p>
-<ul>
-  <li>
-    <strong><a href="https://github.com/scikit-learn/scikit-learn" target="_blank">Scikit-learn</a></strong> – A leading machine learning library in Python with plenty of issues tagged "good first issue".
-  </li>
-  <li>
-    <strong><a href="https://github.com/pandas-dev/pandas" target="_blank">Pandas</a></strong> – A powerful data manipulation and analysis library where you can contribute by enhancing documentation or code.
-  </li>
-  <li>
-    <strong><a href="https://github.com/tiangolo/fastapi" target="_blank">FastAPI</a></strong> – A modern, high-performance web framework for building APIs with Python.
-  </li>
-  <li>
-    <strong><a href="https://github.com/facebook/react" target="_blank">React</a></strong> – The popular JavaScript library for building user interfaces; check out "good first issue" for easy tasks.
-  </li>
-  <li>
-    <strong><a href="https://github.com/firstcontributions/first-contributions" target="_blank">First Contributions</a></strong> – A project designed to help newcomers make their first open source contribution.
-  </li>
-  <li>
-    <strong><a href="https://github.com/MunGell/awesome-for-beginners" target="_blank">Awesome for Beginners</a></strong> – A curated list of repositories welcoming contributions from first-timers.
-  </li>
-</ul>
-<p align="left">
-  I’m excited to learn, contribute, and collaborate on impactful projects. If you have any suggestions or opportunities, feel free to connect!
-</p>
-
-<h2 align="left">Projects</h2>
-<p align="left">
-  Here are a few projects that showcase my skills:
-</p>
-<ul>
-  <li><strong>Fit-GenAI:</strong> Integrating fitness with AI-powered insights.</li>
-  <li><strong>ShopKart:</strong> A full stack e-commerce platform.</li>
-  <li><strong>DBMS Mini Project:</strong> A practical demonstration of database management skills.</li>
-  <li><strong>Pokemon React App:</strong> A Pokedex app built using React.</li>
-  <li><strong>ML Models:</strong> Implementations of linear regression and random forest models.</li>
-</ul>
-
-<h2 align="left">Let's Connect</h2>
-<p align="left">
-  If you'd like to discuss tech, collaborate on projects, or simply chat about ideas, drop me a line at <a href="mailto:ajinkyajagtap2806@gmail.com">ajinkyajagtap2806@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/ajinkya-jagtap-2023ai/">LinkedIn</a>.
-</p>
