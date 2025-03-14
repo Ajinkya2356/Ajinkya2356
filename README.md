@@ -15,7 +15,8 @@
 </div>
 
 <div align="left">
-  <img height="200" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="coding gif" />
+  <!-- New engaging coding animation gif -->
+  <img height="200" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Coding Animation" />
 </div>
 
 <h2 align="left">✨ About Me ✨</h2>
@@ -68,13 +69,13 @@
     <strong><a href="https://github.com/tiangolo/fastapi" target="_blank">FastAPI</a></strong> – A modern, high-performance web framework for building APIs with Python.
   </li>
   <li>
-    <strong><a href="https://github.com/facebook/react" target="_blank">React</a></strong> – The popular JavaScript library for building user interfaces; look for issues labeled "good first issue" to get started.
+    <strong><a href="https://github.com/facebook/react" target="_blank">React</a></strong> – The popular JavaScript library for building user interfaces; check out "good first issue" for easy tasks.
   </li>
   <li>
     <strong><a href="https://github.com/firstcontributions/first-contributions" target="_blank">First Contributions</a></strong> – A project designed to help newcomers make their first open source contribution.
   </li>
   <li>
-    <strong><a href="https://github.com/MunGell/awesome-for-beginners" target="_blank">Awesome for Beginners</a></strong> – A curated list of projects welcoming contributions from first-timers.
+    <strong><a href="https://github.com/MunGell/awesome-for-beginners" target="_blank">Awesome for Beginners</a></strong> – A curated list of repositories welcoming contributions from first-timers.
   </li>
 </ul>
 <p align="left">
