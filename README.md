@@ -51,11 +51,11 @@ Versatile Full Stack Developer with expertise in the MERN stack and a strong pas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajinkya2356&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="165" alt="Stats Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajinkya2356&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&bg_color=0D1117" height="165" alt="Languages Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajinkya2356&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&bg_color=0D1117&hide=c%2B%2B" height="165" alt="Languages Graph" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ajinkya2356&locale=en&mode=daily&theme=react&hide_border=true&bg_color=0D1117" height="150" alt="Streak Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkya2356&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=58A6FF&currStreakLabel=58A6FF&ring=58A6FF&sideLabels=58A6FF" height="180" alt="Streak Graph" />
 </div>
 
 ## 🔥 Featured Projects
@@ -74,7 +74,7 @@ Versatile Full Stack Developer with expertise in the MERN stack and a strong pas
       <td width="50%">
         <h3 align="center">ShopKart</h3>
         <div align="center">
-          <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b76119m9bhu19awq943opj4gcelp80v4075pk79orvvk5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" height="150" alt="ShopKart" />
+          <img src="https://media.giphy.com/media/ckrKG1wsivxnCKRlCa/giphy.gif" width="250" height="150" alt="ShopKart" />
           <p>A full-stack e-commerce platform with features like product search, cart management, and secure payment processing.</p>
           <p><strong>Tech Stack:</strong> MERN Stack, Redux, Stripe API</p>
         </div>
