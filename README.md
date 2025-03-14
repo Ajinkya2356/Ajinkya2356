@@ -1,7 +1,9 @@
-<h1 align="center">👨‍💻 Ajinkya Jagtap | Full Stack Developer & ML Enthusiast</h1>
+<h1 align="center">👨‍💻 Ajinkya Jagtap | Versatile Developer & ML Enthusiast</h1>
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="AI and ML Animation" />
+  <img height="160" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding Animation" />
+  <img height="160" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Tech Animation" />
+  <img height="160" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" alt="Analytics Animation" />
 </div>
 
 <p align="center">
@@ -15,7 +17,7 @@
 
 ## 🚀 About Me
 
-Full Stack Developer with expertise in the MERN stack and a strong passion for Machine Learning. I transform complex problems into elegant, user-friendly solutions while continuously exploring cutting-edge technologies.
+Versatile Full Stack Developer with expertise in the MERN stack and a strong passion for Machine Learning. I transform complex problems into elegant, user-friendly solutions while continuously exploring cutting-edge technologies.
 
 - 🔭 Building innovative web applications since 2022
 - 🌱 Mastering MERN Stack & exploring advanced ML techniques
@@ -41,13 +43,6 @@ Full Stack Developer with expertise in the MERN stack and a strong passion for M
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </div>
 
-<br>
-
-<div align="center">
-  <img height="180" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding Animation" />
-  <img height="180" src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" alt="Software Development Animation" />
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -71,7 +66,7 @@ Full Stack Developer with expertise in the MERN stack and a strong passion for M
       <td width="50%">
         <h3 align="center">Fit-GenAI</h3>
         <div align="center">
-          <img src="https://media.giphy.com/media/3o7aCVp7zO4FxQDJuk/giphy.gif" width="250" height="150" alt="Fit-GenAI" />
+          <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250" height="150" alt="Fit-GenAI" />
           <p>A revolutionary fitness application that combines AI-powered insights with personalized workout plans.</p>
           <p><strong>Tech Stack:</strong> React, Node.js, TensorFlow.js, MongoDB</p>
         </div>
@@ -79,7 +74,7 @@ Full Stack Developer with expertise in the MERN stack and a strong passion for M
       <td width="50%">
         <h3 align="center">ShopKart</h3>
         <div align="center">
-          <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250" height="150" alt="ShopKart" />
+          <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b76119m9bhu19awq943opj4gcelp80v4075pk79orvvk5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" height="150" alt="ShopKart" />
           <p>A full-stack e-commerce platform with features like product search, cart management, and secure payment processing.</p>
           <p><strong>Tech Stack:</strong> MERN Stack, Redux, Stripe API</p>
         </div>
@@ -89,7 +84,7 @@ Full Stack Developer with expertise in the MERN stack and a strong passion for M
       <td width="50%">
         <h3 align="center">DBMS Mini Project</h3>
         <div align="center">
-          <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="250" height="150" alt="DBMS Project" />
+          <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="250" height="150" alt="DBMS Project" />
           <p>A comprehensive database management system showcasing advanced SQL queries and database design principles.</p>
           <p><strong>Tech Stack:</strong> MySQL, PHP, JavaScript</p>
         </div>
@@ -97,7 +92,7 @@ Full Stack Developer with expertise in the MERN stack and a strong passion for M
       <td width="50%">
         <h3 align="center">ML Models</h3>
         <div align="center">
-          <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" height="150" alt="ML Models" />
+          <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="250" height="150" alt="ML Models" />
           <p>Implementation of linear regression and random forest models for predictive analytics.</p>
           <p><strong>Tech Stack:</strong> Python, Scikit-learn, Pandas, NumPy</p>
         </div>
@@ -106,10 +101,21 @@ Full Stack Developer with expertise in the MERN stack and a strong passion for M
   </table>
 </div>
 
+## 💻 Coding Journey
+
+<div align="center">
+  <img height="180" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Data Visualization" />
+  <img height="180" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Code Animation" />
+</div>
+
+<p align="center">
+  From writing my first lines of code to building complex full-stack applications, my journey has been driven by curiosity and the desire to create meaningful solutions. Each project represents a challenge overcome and skills mastered along the way.
+</p>
+
 ## 📬 Let's Connect!
 
 <p align="center">
-  I'm always open to interesting conversations, collaboration opportunities, and new challenges. If you're looking for a developer who combines technical expertise with creative problem-solving, let's connect!
+  I'm always open to interesting conversations, collaboration opportunities, and new challenges. If you're looking for a versatile developer who combines technical expertise with creative problem-solving, let's connect!
 </p>
 
 <div align="center">
