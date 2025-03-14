@@ -23,7 +23,7 @@
   <!-- <img height="200" src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" alt="Software Development Animation" /> -->
   
   <!-- Option 3: Tech Aesthetics -->
-  <!-- <img height="200" src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" alt="Tech Vibe Animation" /> -->
+  <img height="200" src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" alt="Tech Vibe Animation" />
   
   <!-- Option 4: AI/ML Futuristic -->
   <!-- <img height="200" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="AI and ML Animation" /> -->
