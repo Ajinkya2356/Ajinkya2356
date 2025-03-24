@@ -100,7 +100,7 @@ Versatile Full Stack Developer with expertise in the MERN stack and a strong pas
     </tr>
   </table>
 </div>
-
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Ajinkya2356)
 ## 💻 Coding Journey
 
 <div align="center">
