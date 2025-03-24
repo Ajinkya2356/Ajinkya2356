@@ -100,7 +100,9 @@ Versatile Full Stack Developer with expertise in the MERN stack and a strong pas
     </tr>
   </table>
 </div>
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Ajinkya2356)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ajinkya2356&color=blue)
+
 ## 💻 Coding Journey
 
 <div align="center">
